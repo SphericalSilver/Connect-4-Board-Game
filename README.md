@@ -14,7 +14,7 @@ The messages in the console will prompt you to enter certain integers that will 
 
 ![iPython console](https://i.gyazo.com/192171517e035e94dcf468f08eddb0ae.png)
 
-The board is represented by a numpy array, with numbers corresponding to the player number representing the discs.
+The board is represented by a numpy array, with the numbers in the array corresponding to the player who placed that disc.
 
 In the below example, notice how player 1 won by connecting 4 diagonal pieces!
 
