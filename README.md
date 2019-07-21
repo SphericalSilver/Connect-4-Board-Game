@@ -11,3 +11,5 @@ Fully functional version of the game Connect-4, with a couple of twists:
 Simply run the code on Python 3! The IDE Spyder is recommended. The game will be playable in the iPython console. 
 
 The messages in the console will prompt you to enter certain integers that will give the game the commands it needs to understand your actions!
+
+![iPython console](https://i.gyazo.com/edb241fa3bec81b17f06a4f17634299e.png)
