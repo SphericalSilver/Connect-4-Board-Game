@@ -8,9 +8,9 @@ Fully functional version of the game Connect-4, with a couple of twists:
 
 ## How to play
 
-Simply run the code on Python 3! The IDE Spyder is recommended. The game will be playable in the iPython console. 
+Simply run the code on Python 3! The IDE Spyder is recommended for this game. 
 
-The messages in the console will prompt you to enter certain integers that will give the game the commands it needs to understand your actions, like so:
+The game will be playable in the iPython console. The messages in the console will prompt you to enter certain integers that will give the game the commands it needs to understand your actions, like so:
 
 ![iPython console](https://i.gyazo.com/192171517e035e94dcf468f08eddb0ae.png)
 
