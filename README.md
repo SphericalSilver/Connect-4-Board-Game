@@ -13,3 +13,9 @@ Simply run the code on Python 3! The IDE Spyder is recommended. The game will be
 The messages in the console will prompt you to enter certain integers that will give the game the commands it needs to understand your actions, like so:
 
 ![iPython console](https://i.gyazo.com/edb241fa3bec81b17f06a4f17634299e.png)
+
+The board is represented by a numpy array, with numbers corresponding to the player number representing the discs.
+
+In the below example, notice how player 1 won by connecting 4 diagonal pieces!
+
+![player 1 victory](https://i.gyazo.com/45d2f1ab497c285dd75a2491377eb564.png)
